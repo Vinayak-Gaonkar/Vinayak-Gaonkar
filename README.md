@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vinayak-Gaonkar
 - 👀 I’m interested in Tech Stuffs
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Learning new use cases on blockchain
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Learning new use cases on Rust
 - 📫 How to reach me vinayakgaonkarg@gmail.com
 
 <!---
